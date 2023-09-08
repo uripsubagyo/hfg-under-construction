@@ -18,7 +18,7 @@ export default function Home() {
         </div>
         <div className={`${philosopher.className} absolute z-1 w-full h-full  p-16 md:p-32 text-white flex flex-col justify-between`} >
             <div className='text-center text-white'>
-              <h1 className='text-4xl'>Hindu For Generation 17 is Under Construction</h1>
+              <h1 className='text-4xl'>Hindu For Generation 17 Under Construction</h1>
               <p>To make things right we need some time to build.</p>
             </div>
 
